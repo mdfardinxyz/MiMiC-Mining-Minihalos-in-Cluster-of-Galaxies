@@ -7,7 +7,7 @@ Initial stage of this internship focuses on analyzing specific features within P
 
 Project site: https://cassa.site/abekta/projects/mimic/2024 | https://cassa.site/research/projects/
 
-Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer, Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer and Director of Center for Astronomy, Space Science and Astrophysics (CASSA)
 
 ![image](https://github.com/user-attachments/assets/14c191e4-6714-4bd3-92b1-432004a8dd66)
 ![image](https://github.com/user-attachments/assets/8c598acb-d245-40ff-bcea-1e24d7a02e89)
