@@ -13,7 +13,9 @@ CASSA Site: **https://cassa.site/research/projects/**
 
 Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://coalab.space/people/asad/) | Astronomer and Director of Center for Astronomy, Space Science and Astrophysics (CASSA)
 
-![image](https://github.com/user-attachments/assets/14c191e4-6714-4bd3-92b1-432004a8dd66)
-![image](https://github.com/user-attachments/assets/8c598acb-d245-40ff-bcea-1e24d7a02e89)
+![image](https://github.com/user-attachments/assets/48c2c199-7d0e-47ed-af6f-34562065b891)
+![image](https://github.com/user-attachments/assets/370362bb-518b-416a-b65e-a03b71e3cc6c)
+
+
 
 (ongoing)
