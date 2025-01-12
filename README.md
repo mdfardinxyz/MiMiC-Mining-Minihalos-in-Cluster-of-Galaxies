@@ -11,7 +11,7 @@ Project page: **https://cassa.site/abekta/projects/mimic/2024**
 
 CASSA Site: **https://cassa.site/research/projects/**
 
-Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://coalab.space/people/asad/) | Astronomer and Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB) 
+Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://cassa.site/people/asad/) | Astronomer and Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB) 
 
 ![image](https://github.com/user-attachments/assets/ee888447-9035-4d84-bc5a-8a6b408be417)
 ![image](https://github.com/user-attachments/assets/de3daf29-5b3e-4a28-8f09-71cfaf5b1770)
