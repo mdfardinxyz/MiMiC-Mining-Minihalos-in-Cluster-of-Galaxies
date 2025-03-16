@@ -7,9 +7,7 @@ Initial stage of this internship focuses on analyzing specific features within P
 
 The data analysis involves examining variations in temperature, entropy, and other radial characteristics to discern underlying physical processes affecting the cluster's behavior. Utilizing the Chandra Interactive Analysis of Observations (CIAO) software, processing of X-ray data entails analysis, providing detailed insights into the cluster’s X-ray emissions and physical properties. This foundational work sets the stage for future investigations such as the distribution of gases, potential magnetic field influences, and the dynamical state of the perseus galaxy cluster.
 
-Project page: **https://cassa.site/abekta/projects/mimic/2024**
-
-CASSA Site: **https://cassa.site/research/projects/**
+Project page: **[cassa.site/abekta/projects/mimic/2024](https://cassa.site/entry/mimic/)**
 
 Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://cassa.site/people/asad/) | Astronomer and Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB) 
 
